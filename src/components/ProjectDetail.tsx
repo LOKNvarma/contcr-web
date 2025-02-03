@@ -23,7 +23,7 @@ function ProjectDetails() {
         <img
           src={project.Rimage}
           alt={project.title}
-          className="w-full max-h-96 object-cover rounded-lg mb-6 shadow-lg"
+          className="w-full max-h-full object-cover rounded-lg mb-6 shadow-lg"
         />
         {/* Image Grid Section */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-6">
@@ -63,7 +63,7 @@ function ProjectDetails() {
           </div>
         </div>
         <div className="mt-6 pt-4 border-t text-gray-700 italic text-center sm:text-left">
-          "{project.feedback}"
+           <h3>Feedback :-</h3>   <br />  "{project.feedback}"
         </div>
       </div>
     </div>
