@@ -67,6 +67,26 @@ export const projects = [
     image:"https://res.cloudinary.com/dgkflajty/image/upload/v1738558422/openart-c955818f-5b47-40b5-b991-ff0bea0a9400_xi1uz5.jpg",
     Rimage:"https://res.cloudinary.com/dgkflajty/image/upload/v1738558422/openart-c955818f-5b47-40b5-b991-ff0bea0a9400_xi1uz5.jpg",
     feedback: "Work quality is amazing ,  very polite and trustable contrator  ",
+    description: "The completion of this stunning modern house is a true reflection of elegance and functionality.",
+     location  : "Kharda - Gogawan, khargone ",
+     images : {
+      pics : ["https://res.cloudinary.com/dgkflajty/image/upload/v1738558422/openart-c955818f-5b47-40b5-b991-ff0bea0a9400_xi1uz5.jpg",
+        "https://res.cloudinary.com/dgkflajty/image/upload/v1738558422/openart-c955818f-5b47-40b5-b991-ff0bea0a9400_xi1uz5.jpg",
+       "https://res.cloudinary.com/dgkflajty/image/upload/v1738558422/openart-c955818f-5b47-40b5-b991-ff0bea0a9400_xi1uz5.jpg",
+        "https://res.cloudinary.com/dgkflajty/image/upload/v1738558422/openart-c955818f-5b47-40b5-b991-ff0bea0a9400_xi1uz5.jpg"] ,
+      format : "jpg"
+    }
+   
+  },
+  {
+    id: 3,
+    title: "A high-end, spacious home with elegant exterior lighting and lush greenery.",
+    type: "Residential House",
+    owner: "Mr. Jituji Yadav (JITU SARKAR)",
+    date: "2021",
+    image:"https://res.cloudinary.com/dgkflajty/image/upload/v1738558422/openart-c955818f-5b47-40b5-b991-ff0bea0a9400_xi1uz5.jpg",
+    Rimage:"https://res.cloudinary.com/dgkflajty/image/upload/v1738558422/openart-c955818f-5b47-40b5-b991-ff0bea0a9400_xi1uz5.jpg",
+    feedback: "Work quality is amazing ,  very polite and trustable contrator  ",
     description: "The completion of this stunning modern house is a true reflection of elegance and functionality. Every detail has been meticulously crafted to bring comfort and luxury to life.",
      location  : "Kharda - Gogawan, khargone ",
      images : {
@@ -78,6 +98,26 @@ export const projects = [
     }
    
   },
+  {
+    id: 4,
+    title: "A high-end, spacious home with elegant exterior lighting and lush greenery.",
+    type: "Residential House",
+    owner: "Mr. Gajraj Singh Chouhan",
+    date: "2023",
+    image:"https://res.cloudinary.com/dgkflajty/image/upload/v1739332109/28ccead6-56b1-46da-9d56-ccd9d14055aa_cejfvk.jpg",
+    Rimage:"https://res.cloudinary.com/dgkflajty/image/upload/v1739332109/28ccead6-56b1-46da-9d56-ccd9d14055aa_cejfvk.jpg",
+    feedback: "Work quality is amazing ,  very polite and trustable contrator  ",
+    description: "The completion of this stunning modern house is a true reflection of elegance and functionality. Every detail has been meticulously crafted to bring comfort and luxury to life.",
+     location  : "Borgav- Gogawan, khargone ",
+     images : {
+      pics : ["https://res.cloudinary.com/dgkflajty/image/upload/v1739331208/PHOTO-2025-02-12-08-58-28_ialeoo.jpg",
+        "https://res.cloudinary.com/dgkflajty/image/upload/v1739331208/PHOTO-2025-02-12-08-58-28_ialeoo.jpg",
+       "https://res.cloudinary.com/dgkflajty/image/upload/v1739331208/PHOTO-2025-02-12-08-58-28_ialeoo.jpg",
+        "https://res.cloudinary.com/dgkflajty/image/upload/v1739331208/PHOTO-2025-02-12-08-58-28_ialeoo.jpg"] ,
+      format : "jpg"
+    }
+   
+  }
  
 ];
 
@@ -87,7 +127,7 @@ export const testimonials = [
     name: "Mr. Gajran Singh Chouhan",
     role: "Building Owner",
     quote: "Their commitment to excellence and attention to detail is unmatched in the industry.",
-    image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80"
+    image: "https://res.cloudinary.com/dgkflajty/image/upload/v1739331208/PHOTO-2025-02-12-08-58-28_ialeoo.jpg"
   },
   {
     id: 2,

@@ -16,8 +16,8 @@ function ProjectDetails() {
   return (
     <div className="min-h-screen bg-gray-50">
      <Navbar></Navbar>
-      <div className="max-w-5xl mx-auto p-4 sm:p-6 md:p-8">
-        <h1 className="text-3xl sm:text-4xl mt-10 font-bold mb-4 text-center sm:text-left">
+      <div className="max-w-5xl mx-auto p-4  sm:p-6 md:p-8">
+        <h1 className="text-3xl sm:text-4xl mt-20 font-bold mb-4 text-center sm:text-left">
           {project.title}
         </h1>
         <img
